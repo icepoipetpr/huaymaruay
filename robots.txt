@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+Disallow: /*?*utm_
+Disallow: /*?*fbclid=
+
+Sitemap: https://huaymaruay.xyz/sitemap.xml
+Sitemap: https://huaymaruay.xyz/sitemap.txt
